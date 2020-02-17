@@ -1,10 +1,10 @@
 <?php
 
 
-namespace fize\oauth\handler;
+namespace fize\provider\oauth\handler;
 
 
-use fize\oauth\Oauth;
+use fize\provider\oauth\Oauth;
 
 
 class QQ extends Oauth

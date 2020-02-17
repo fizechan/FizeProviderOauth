@@ -1,7 +1,7 @@
 <?php
 
 
-namespace fize\oauth\handler;
+namespace fize\provider\oauth\handler;
 
 
 class BaiDu

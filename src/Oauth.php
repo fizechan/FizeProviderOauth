@@ -1,7 +1,7 @@
 <?php
 
 
-namespace fize\oauth;
+namespace fize\provider\oauth;
 
 
 abstract class Oauth
